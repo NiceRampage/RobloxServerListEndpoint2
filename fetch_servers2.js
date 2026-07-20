@@ -4,7 +4,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const PLACE_ID = 109983668079237;
+const PLACE_ID = 74193805629461;
 const PAGE_LIMIT = 100;
 const OUTPUT_FILE = path.join(__dirname, "server_list.json");
 const RAW_DIR = path.join(__dirname, "raw_responses");
